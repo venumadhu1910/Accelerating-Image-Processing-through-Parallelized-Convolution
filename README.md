@@ -1,4 +1,4 @@
-Introduction
+*Introduction*
 
 Image processing tasks, such as convolution, often require significant computational resources, especially for large images. Parallelizing these tasks can lead to substantial performance improvements by leveraging multiple processing elements simultaneously. This project focuses on accelerating image convolution through parallelization, aiming to improve processing time and efficiency.
 
